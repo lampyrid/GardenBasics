@@ -1,2 +1,2 @@
-# GardenBasics
-A basic overview for community gardeners. Specific resources for NC gardeners.
+# PlantGuides
+Includes a garden basic overview for community gardeners as well as an edible plants guide for elementary educators. Specific resources for NC gardeners.
