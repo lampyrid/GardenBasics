@@ -1,3 +1,3 @@
 # PlantGuides
-Includes a garden basics overview for community gardeners as well as an edible plants guide for elementary educators. Specific resources for NC.
-[Garden Basics e-Learning Course](https://lampyrid.github.io/PlantGuides/GardenBasicsCourse)
+Includes a [Garden Basics e-Learning Course](https://lampyrid.github.io/PlantGuides/GardenBasicsCourse) for Community Gardeners as well as an Edible Plants Guide for Elementary Educators. These resources are made specifically with NC in mind but principles are universal.
+
